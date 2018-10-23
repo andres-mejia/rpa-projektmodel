@@ -8,4 +8,4 @@ Formålet er at konceptualisere en ny projektmodel gennem inddragelse af udefra 
 
 Hvis du har spørgsmål eller idéer til forbedringer, så er du velkommen til at kontakte mig.
 
-<a href="mailto:rene.ingemann@mokkarpa.com?Subject=Github" target="_top">Send Mail</a>
+<a href="mailto:rene.ingemann@mokkarpa.com?Subject=Github" target="_top">Send mail</a>
